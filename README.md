@@ -54,7 +54,7 @@ Une personne morale est une entité qui n'est pas physique, c'est-à-dire une en
 Lorsqu'un directeur d'une entreprise signe un contrat au nom de l'entreprise, il engage son entreprise, mais pas sa personne physique.
 Une personne morale n'est pas (en tout cas dans notre cas) soumises à charges sociales directement.
 Elle est par contre soumise à l'_IS_ en règle générale.
-Dès lors qu'une personne morale verse un ++salaire++ à une personne physique, la personne physique génère une charge sociale (qu'on appelle charge patronale pour la partie gérée par la personne morale, et charge salariale pour la partie gérée par la personne physique).
+Dès lors qu'une personne morale verse un salaire à une personne physique, la personne physique génère une charge sociale (qu'on appelle charge patronale pour la partie gérée par la personne morale, et charge salariale pour la partie gérée par la personne physique).
 On peut par exemple éviter des charges sociales en se versant des dividendes, qui ne sont pas un salaire et ne sont donc soumis qu'à l'_IR_.
 
 La grande force de l'auto entreprise est de confondre la personne physique et morale et de ne prendre que les avantages des deux statuts.
@@ -80,7 +80,7 @@ Une fois que vous êtes rassuré sur la complète légalité de votre future act
 Les deux principales aides pour un auto entrepreneur sont l'_ACCRE_ et l'_ARE_.
 L'_ACCRE_ est une aide délivrée par l'_URSSAF_ qui vous permet de réduire grandement les charges sociales que vous allez devoir cotiser dans votre activité d'entrepreneur. Elle est décernée dans le cas d'une perte involontaire d'un emploi, ou pour les personnes de moins de 26 ans lors de la demande d'_ACCRE_ (ou autres cas, comme les pupilles de la nation, et autres cas qui ne vous concernent certainement pas). L'admission de délivrance peut être tacite si aucune réponse n'est donnée après un mois (ça m'est pas arrivé mais ça peut être important).
 
-**++INSERER FORMULAIRE DEMANDE D'ACCRE & DELIVRANCE++**
+**INSERER FORMULAIRE DEMANDE D'ACCRE & DELIVRANCE**
 
 L'_ARE_ est une aide délivrée par (du moins demandée à) Pole Emploi, et qui permet de maintenir le niveau de vie que vous aviez avec votre précédent emploi. C'est grossièrement un chômage pour créateur d'entreprise. Cette aide n'est décernée qu'au personnes disposant de l'_ACCRE_.
 L'_ARE_ est un capital de 57% bruts de vos dernières activités rémunérées (sur un total maximum de 2 ans par activités) et ne rentre pas dans votre compte de _résultat_ de l'entreprise. Elle peut être délivrée en 2 modes :
@@ -90,7 +90,7 @@ L'_ARE_ est un capital de 57% bruts de vos dernières activités rémunérées 
 
 Nul besoin de vous dire que dans le cas d'une profession libérale avec un si forte demande que l'informatique, mieux vaut choisir la mensualisation.
 
-**++INSERER FORMULAIRE DE DELIVRANCE D'ARE++**
+**INSERER FORMULAIRE DE DELIVRANCE D'ARE**
 
 Ces aides ne sont pas comptabilisée dans le résultat de votre activité, et sont délivrés à vous, citoyen français, et non à vous, auto entrepreneur, vous pouvez donc les recevoir et ne pas les compter dans votre prévisionnel.
 
@@ -109,8 +109,8 @@ Exemple :
 
 J'ai fait une timeline car c'est beaucoup plus compréhensible qu'un paragraphe.
 
-**++CAS D'UN SALARIE EN COURS D'ACTIVITE++**
-**++CAS D'UN CHOMEUR++**
+**CAS D'UN SALARIE EN COURS D'ACTIVITE**
+**CAS D'UN CHOMEUR**
 
 Si il y a bien un outil qui va énormément vous aidez pour les moins organisés d'entre nous, c'est l'agenda.
 Je ne suis personnellement pas très organisé et souvent "procrastineur", et ça m'a énormément aidé à avancer dans la démarche de création d'entreprise.
