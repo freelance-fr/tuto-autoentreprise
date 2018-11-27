@@ -109,7 +109,8 @@ Exemple :
 
 J'ai fait une timeline car c'est beaucoup plus compréhensible qu'un paragraphe.
 
-**CAS D'UN SALARIE EN COURS D'ACTIVITE**
+[**Cas d'un salarié**](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1eb4ZFLKFrDdDXcaO8VJEZtGFNiV6JG54pqrSLyj-4Js&font=Default&lang=en&height=650)
+
 **CAS D'UN CHOMEUR**
 
 Si il y a bien un outil qui va énormément vous aidez pour les moins organisés d'entre nous, c'est l'agenda.
